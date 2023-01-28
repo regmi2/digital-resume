@@ -1,0 +1,14 @@
+[theme]
+
+#Primary accent 
+primaryColor = "#d33682"
+
+#background color
+backgroundColor = "#ffffff"
+
+#background color for sidebar + interactive
+
+secondaryBackgroundColor = "#586e75"
+
+
+textColor = "000"

@@ -1,0 +1,6 @@
+1. open an account on render.com
+2. install pipreqs with `pip install pipreqs` or `pip3 install pipreqs`
+----- this creates a requirements file that will be used by render
+----- to generate necessary info for render launch
+3. run `pipreqs --encoding=utf8` 
+----- he has used emojis so he needs to process it
