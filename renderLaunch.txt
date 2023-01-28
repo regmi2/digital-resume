@@ -4,3 +4,4 @@
 ----- to generate necessary info for render launch
 3. run `pipreqs --encoding=utf8` 
 ----- he has used emojis so he needs to process it
+4. create github account and create new repo - digital-resume
